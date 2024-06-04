@@ -1,1 +1,1 @@
-Gałęź development-plik NowaFunkcja.txt
+Gałęź development-plik NowaFunkcja.txt //poprawiony tekst punkt 8.
